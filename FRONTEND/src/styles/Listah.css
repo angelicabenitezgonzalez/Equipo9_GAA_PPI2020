@@ -1,0 +1,21 @@
+.botones {
+  background-color: #eece93;
+}
+.Lista .btn {
+  background: transparent;
+  color: black;
+  border: 15px solid transparent;
+  font-size: 25px;
+  font-weight: 500;
+  text-align: left;
+  margin: auto;
+}
+.Lista .btn:hover {
+  color: #054fee;
+  background: transparent;
+  border: 15px solid transparent;
+}
+
+.Lista .flechas{
+  background-color: #eece93;
+}
